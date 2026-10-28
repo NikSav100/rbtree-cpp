@@ -1,0 +1,10 @@
+build/
+*.o
+*.out
+*.exe
+*.gcda
+*.gcno
+*.gcov
+.vscode/
+.idea/
+.DS_Store
